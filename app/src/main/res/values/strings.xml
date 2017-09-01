@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidApp1</string>
+    <string name="txv1Activity1">Nombre del Usuario</string>
+    <string name="txv2Activity1">Password del Usuario</string>
+    <string name="btn1Activity1">Ingresar</string>
+    <string name="btn2Activity1">Recuperar Usuario</string>
+    <string name="txv1Activity2">Bienvenido!</string>
+    <string name="txv2Activity2">-----------</string>
+    <string name="txv2Activity3">Nuevo Password</string>
+    <string name="txv3Activity3">Repetir Password</string>
+    <string name="btn1Activity3">Guardar</string>
+</resources>
