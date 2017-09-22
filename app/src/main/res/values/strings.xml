@@ -9,4 +9,5 @@
     <string name="txv2Activity3">Nuevo Password</string>
     <string name="txv3Activity3">Repetir Password</string>
     <string name="btn1Activity3">Guardar</string>
+    <string name="title_activity_lista_contactos">ListaContactos</string>
 </resources>
